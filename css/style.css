@@ -5,7 +5,7 @@ body {
 
 .container {
   width: 250px;
-  height: 230px;
+  height: 280px;
   background-color: rgb(179, 182, 155);
   margin: auto;
   margin-top: 50px;
@@ -13,6 +13,7 @@ body {
   padding: 20px;
   box-sizing: border-box;
   border-radius: 20px;
+  font-family: 'Courier New', Courier, monospace;
 }
 #header{
     text-align: center;
@@ -34,4 +35,5 @@ body {
 
 .mainPost h1{
     font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
