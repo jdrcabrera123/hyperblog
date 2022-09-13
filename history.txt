@@ -2,4 +2,5 @@ this is the first file
 I'm Juan. I have been studying for a long time without any purpouse or goal
 This is a new line to see in gitbash
 Today we will talk about my history.
-I have finish my master degree
+I have finished my master degree
+Tomorrow I will focus on your projects
